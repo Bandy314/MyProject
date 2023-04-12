@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3072b579-46e5-49ce-847c-e27a8309a9fd" name="yii2.malfin.site" url="https://yii2.malfin.site">
+        <fileTransfer rootFolder="/yii2.malfin.site" host="89.208.104.69" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
